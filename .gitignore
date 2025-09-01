@@ -1,0 +1,73 @@
+# ============ Unity ============
+
+# 빌드 결과물
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Tt]emp/
+[Oo]bj/
+[Bb]in/
+
+# Unity 생성 캐시
+[Ll]ibrary/
+UserSettings/
+MemoryCaptures/
+Assets/AssetStoreTools*
+
+# 크래시/에러 덤프
+sysinfo.txt
+
+# Visual Studio / JetBrains Rider
+.vs/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+
+# OS 파일
+.DS_Store
+Thumbs.db
+
+# Auto-generated
+*.apk
+*.aab
+*.app
+*.exe
+*.dll
+*.pdb
+*.mdb
+*.so
+*.dylib
+
+# Gradle / Android
+.gradle/
+.gradleCache/
+*.gradle
+*.jar
+*.keystore
+*.apk
+*.aab
+
+# iOS
+DerivedData/
+*.xcworkspace
+*.xcuserstate
+*.xcuserdata
+*.xcuserdatad
+Pods/
+
+# VS Code
+.vscode/
+.history/
+
+# 기타 캐시
+*.swp
+*.tmp
+*.temp
+*.log
